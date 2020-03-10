@@ -1,5 +1,13 @@
+
+
 .App {
   text-align: center;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+.imgsrc {
+  justify-content: center;
 }
 
 .App-logo {
@@ -26,6 +34,12 @@
 
 .App-link {
   color: #61dafb;
+}
+
+h3 {
+	letter-spacing: 2px;
+	text-align: center;
+	text-transform: uppercase;
 }
 
 @keyframes App-logo-spin {
